@@ -4,7 +4,7 @@ This project is a single-page CV template created using HTML. It provides an ove
 
 ## Project code
 
-You can view project code [here](https://github.com/skbabu5/roadmap.sh/tree/main/1Single-Page-CV).
+You can view project code 👉 [here](https://github.com/skbabu5/roadmap.sh/tree/main/1Single-Page-CV).
 
 ## Features
 
